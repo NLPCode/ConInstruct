@@ -23,7 +23,7 @@ We begin by manually curating 100 seed instructions, which serve as fundamental 
 | expanded instructions | `datasets/expand_instruction.jsonl` |
 | conflicting instructions | `datasets/conflict_instruction.jsonl` |
 
-ConInstruct is also available at **Hugging Face**: https://huggingface.co/datasets/He-Xingwei/ConInstruct.
+ConInstruct is also available at **Hugging Face**: https://huggingface.co/datasets/He-Xingwei/ConInstruct. For specific data format details, please refer to the Hugging Face link above.
 
 ## Conflict Detection
 
